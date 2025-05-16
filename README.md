@@ -40,3 +40,19 @@ e016468b
 phone number: +13156404076
 pw: 3bQ$Ys@!2yL%NV$
 ```
+
+## Ads Browser
+```
+2fa: EIWDHEOGYEJUALJBSUSPI7PJLENTKLVX
+```
+
+## Saldo
+```
+pw: BN64d3y6X$H7Nks
+```
+
+## MEXC
+
+```
+2fa: 2HQAIEFK5HE4JTWZ
+```
