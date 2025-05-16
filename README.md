@@ -56,3 +56,16 @@ pw: BN64d3y6X$H7Nks
 ```
 2fa: 2HQAIEFK5HE4JTWZ
 ```
+
+## smspool.net
+```
+password: M!!Ts$wXekmvb3D
+2fa: LLQH DJ2V ZMYM TP5E
+recovery code: VintzhpedjwCEn0qSHWvUDzL3azBEVZ4iHF7Sbu0YqrqJfv0i9mgKE0BAf9lXGHs
+```
+
+## airtm.com
+```
+password: #$@#$@$@#WEFWEFW1321
+QR code secret key: KNBHWL2JMUSD4NZBLIRXSPTQGUXFQQ3B
+```
